@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+https://img.shields.io/endpoint?url=<https://www.linkedin.com/in/gabrielronny/>&style<STYLE>
+
 <!--
 **gabrielronny/gabrielronny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
