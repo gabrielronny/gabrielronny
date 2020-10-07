@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá 👋
 
 Sou apaixonado por tecnologia e gosto muito do que estou aprendendo e fazendo nessa área, acredito muito que compartilhar conhecimento pode impactar muito na vida de pessoas.
 
