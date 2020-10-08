@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="1024" src="animated-pattern.gif" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
