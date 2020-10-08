@@ -13,21 +13,19 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/azure-1868965-1583129.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png"></code> <code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></code>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielronny&hide=contribs&icons=true,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielronny&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielronny&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
