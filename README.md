@@ -28,6 +28,8 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
   <img height="35px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png" />
   <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
   <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+  <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" />
+  <img height="35px" src="https://camo.githubusercontent.com/bb5d3406f92cffc8a57c363da9c13ccaae2fe854/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
 </p>
 
 
