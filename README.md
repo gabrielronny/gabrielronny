@@ -25,7 +25,8 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 
 ### Tecnologias e ferramentas :computer:
 
-<img height="45px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
+<img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+<img height="35px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png" />
 
 
 
