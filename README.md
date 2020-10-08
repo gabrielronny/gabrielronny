@@ -24,9 +24,11 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabrielronny/)
 
 ### Tecnologias e ferramentas :computer:
+<p>
+  <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+  <img height="35px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png" />
+</p>
 
-<img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img height="35px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png" />
 
 
 
