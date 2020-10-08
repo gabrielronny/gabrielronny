@@ -25,7 +25,7 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 
 ### Tecnologias e ferramentas :computer:
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
+<img height="45px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
 
 
 
