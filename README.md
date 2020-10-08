@@ -27,7 +27,7 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 <p>
   <img height="35px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png" />
   <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-  <img height="35px" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" />
+  <img height="35px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" />
 </p>
 
 
