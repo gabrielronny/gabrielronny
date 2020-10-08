@@ -13,6 +13,6 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/azure-1868965-1583129.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png"></code> <code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></code>
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielronny&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielronny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
