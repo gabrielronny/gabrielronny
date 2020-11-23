@@ -20,7 +20,7 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 ---
 Onde me encontrar? :mag:  
 
-<a href="https://www.instagram.com/dii_lua/">Instagram</a> [Instagram](https://www.instagram.com/gabrielronny_)  
+<a href="https://www.instagram.com/gabrielronny_"><img src="https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/instagram-icon.png" width="16"></img></a> [Instagram](https://www.instagram.com/gabrielronny_)  
 
 <a href="https://www.linkedin.com/in/gabrielronny">Linkedin</a> [LinkedIn](https://www.linkedin.com/in/gabrielronny)  
 
