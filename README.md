@@ -25,9 +25,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.instagram.com/gabrielronny_"><img src="https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/instagram.webp" width="16"></img></a> [Instagram](https://www.instagram.com/gabrielronny_)  
 
-<a href="https://www.linkedin.com/in/gabrielronny">Linkedin</a> [LinkedIn](https://www.linkedin.com/in/gabrielronny)  
-
-<a href="mailto:gabrielronny123@hotmail.com">Hotmail</a> [Email](mailto:gabrielronny123@hotmail.com)  
+<a href="mailto:gabrielronny123@hotmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-outlook-2-569268.png" width="16"></img></a> [Instagram](mailto:gabrielronny123@hotmail.com)  
 
 ---
 ![](https://komarev.com/ghpvc/?username=gabrielronny&color=blue&style=flat)
