@@ -13,7 +13,6 @@
 Sou apaixonado por tecnologia e gosto muito do que estou aprendendo e fazendo nessa área, acredito muito que compartilhar conhecimento pode impactar muito na vida de pessoas.
 Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computação. Gosto de entender e aprender como funcionam o front-end, back-end, mobile e o Design UI/UX.
 
----
 Onde me encontrar? :mag:  
 
 
