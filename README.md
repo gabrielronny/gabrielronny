@@ -10,21 +10,24 @@
 </center>  
 
 
-### Olá 👋
+### Olá, Seja bem vindo(a) 👋
 ---
 
 Sou apaixonado por tecnologia e gosto muito do que estou aprendendo e fazendo nessa área, acredito muito que compartilhar conhecimento pode impactar muito na vida de pessoas.
 
 Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computação. Gosto de entender e aprender como funcionam o front-end, back-end, mobile e o Design UI/UX.
 
+---
+Onde me encontrar? :mag:  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabrielronny/)
+<a href="https://www.instagram.com/dii_lua/">Instagram</a> [Instagram](https://www.instagram.com/gabrielronny_)  
 
-### Tecnologias e ferramentas :computer:
+<a href="https://www.linkedin.com/in/gabrielronny">Linkedin</a> [LinkedIn](https://www.linkedin.com/in/gabrielronny)  
 
+<a href="mailto:gabrielronny123@hotmail.com">Hotmail</a> [Email](mailto:gabrielronny123@hotmail.com)  
 
 ---
-![](https://komarev.com/ghpvc/?username=gabrielronny&color=blue&style=flat)p
+![](https://komarev.com/ghpvc/?username=gabrielronny&color=blue&style=flat)
 
 
 
