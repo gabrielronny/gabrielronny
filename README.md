@@ -20,6 +20,8 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
 ---
 Onde me encontrar? :mag:  
 
+
+<a href="https://www.linkedin.com/in/gabrielronny/"><img src="https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/linkedin.ico" width="16"></img></a> [Linkedin](https://www.linkedin.com/in/gabrielronny/)
 <a href="https://www.instagram.com/gabrielronny_"><img src="https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/instagram.webp" width="16"></img></a> [Instagram](https://www.instagram.com/gabrielronny_)  
 
 <a href="https://www.linkedin.com/in/gabrielronny">Linkedin</a> [LinkedIn](https://www.linkedin.com/in/gabrielronny)  
