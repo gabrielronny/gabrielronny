@@ -1,5 +1,4 @@
-![capa github](https://github.com/gabrielronny/gabrielronny/images/banner.gif)  
-
+![Banner github](https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/banner.gif)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
