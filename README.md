@@ -1,5 +1,6 @@
-![Banner github](https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/banner.gif)
+### Olá, Seja bem vindo(a) 👋
 
+![Banner github](https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/banner.gif)
 <center>
   <table>
     <tr>
@@ -8,10 +9,6 @@
     </tr>   
   </table>
 </center>  
-
-
-### Olá, Seja bem vindo(a) 👋
----
 
 Sou apaixonado por tecnologia e gosto muito do que estou aprendendo e fazendo nessa área, acredito muito que compartilhar conhecimento pode impactar muito na vida de pessoas.
 
