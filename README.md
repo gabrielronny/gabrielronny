@@ -1,3 +1,6 @@
+![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Capa_github.png)  
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -34,6 +37,7 @@ Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computaç�
   <img height="35px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=gabrielronny&color=blue&style=flat)
 
 
 
