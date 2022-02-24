@@ -4,6 +4,7 @@
     "git.suggestSmartCommit": false,
     "editor.fontFamily": "Fira Code Retina",
     "editor.fontLigatures": true,
+    "workbench.tree.indent": 15,
 
     "emmet.excludeLanguages": [
         "markdown"
