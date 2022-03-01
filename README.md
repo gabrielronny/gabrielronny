@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo(a) 👋
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielronny/)](https://www.linkedin.com/in/gabrielronny/) 
 
-<!-- ![Banner github](https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/banner.gif)
+<!-- ![Banner github](https://raw.githubusercontent.com/gabrielronny/gabrielronny/master/images/banner.gif) -->
 <center>
   <table>
     <tr>
@@ -9,7 +9,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielronny&theme=dark&count_private=true&show_icons=true"/></td>
     </tr>   
   </table>
-</center>   -->
+</center>  
 
 Sou apaixonado por tecnologia e gosto muito do que estou aprendendo e fazendo nessa área, acredito muito que compartilhar conhecimento pode impactar muito na vida de pessoas.
 Me formei em Desenvolvimento de Sistemas e estou cursando Ciência da Computação.  
